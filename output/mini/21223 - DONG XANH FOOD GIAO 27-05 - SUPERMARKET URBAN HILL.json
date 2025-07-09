@@ -1,0 +1,37 @@
+{
+  "delivery_date": "2025-05-27",
+  "store": "Urban Hill",
+  "source_file": "21223 - DONG XANH FOOD GIAO 27-05 - SUPERMARKET URBAN HILL.pdf",
+  "rows": [
+    {
+      "product_name": "F-Cai thao DL 500g",
+      "qty": 30,
+      "unit_price": 11000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Bap cai trai tim DL 500g",
+      "qty": 30,
+      "unit_price": 14000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Bi dao 500g-DXF",
+      "qty": 10,
+      "unit_price": 12000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Dua leo baby DL vi 500g-DXF",
+      "qty": 5,
+      "unit_price": 14000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Su su 300g up-DXF",
+      "qty": 10,
+      "unit_price": 6500.0,
+      "tax": 0.0
+    }
+  ]
+}

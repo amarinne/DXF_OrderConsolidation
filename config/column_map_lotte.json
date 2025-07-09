@@ -1,0 +1,13 @@
+{
+  "lotte_excel": {
+      "field_map": {
+          "product_name": "Tên sản phẩm",
+          "qty": "Số lượng đặt hàng",
+          "unit_price": "Đơn giá",
+          "tax": "Thuế",
+          "delivery_date": "* Ngày nhập hàng",
+          "order_slip": "Mã đơn đặt hàng"
+      },
+      "date_format": "%d/%m/%Y"
+  }
+}

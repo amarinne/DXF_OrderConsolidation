@@ -1,0 +1,91 @@
+{
+  "delivery_date": "2025-05-27",
+  "store": "Riviera Point",
+  "source_file": "21223 - DONG XANH FOOD GIAO 27-05 - FOODSTORE RIVIERA POINT.pdf",
+  "rows": [
+    {
+      "product_name": "F-Bong cai xanh DL 500g",
+      "qty": 10,
+      "unit_price": 26000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Cai thao DL 500g",
+      "qty": 6,
+      "unit_price": 11000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Bap cai trai tim DL 500g",
+      "qty": 7,
+      "unit_price": 14000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Ot hiem DXF 100g",
+      "qty": 8,
+      "unit_price": 8000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Bi do holo DXF 500g",
+      "qty": 3,
+      "unit_price": 12000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Salad lolo DL goi 300g-DXF",
+      "qty": 10,
+      "unit_price": 13000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Rau muong baby goi 280g-DXF",
+      "qty": 5,
+      "unit_price": 11000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Ca chua Beef DL khay500g-DXF",
+      "qty": 3,
+      "unit_price": 18000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Chanh khay 500g-DXF",
+      "qty": 3,
+      "unit_price": 15000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Khoai lang g Nhat 1kg-DXF",
+      "qty": 3,
+      "unit_price": 32000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Ca tím 500g-DXF",
+      "qty": 3,
+      "unit_price": 11000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Bap My cap 2 trai-DXF",
+      "qty": 6,
+      "unit_price": 17000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Su su 300g up-DXF",
+      "qty": 7,
+      "unit_price": 6500.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Su hao 400g up-DXF",
+      "qty": 6,
+      "unit_price": 14000.0,
+      "tax": 0.0
+    }
+  ]
+}

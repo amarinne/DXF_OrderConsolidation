@@ -1,0 +1,48 @@
+{
+  "delivery_date": "2025-11-07",
+  "source_file": "ĐỒNG XANH - GIAO HÀNG NGÀY 11.7.pdf",
+  "rows": [
+    {
+      "product_name": "Cải Thìa 300gr",
+      "qty": 69,
+      "unit_price": 11000.0,
+      "tax": 5.0
+    },
+    {
+      "product_name": "Cải Ngọt 300gr",
+      "qty": 51,
+      "unit_price": 11000.0,
+      "tax": 5.0
+    },
+    {
+      "product_name": "Xà Lách lô Lô 300gr",
+      "qty": 48,
+      "unit_price": 8500.0,
+      "tax": 5.0
+    },
+    {
+      "product_name": "Cải Thảo 500gr",
+      "qty": 25,
+      "unit_price": 7000.0,
+      "tax": 5.0
+    },
+    {
+      "product_name": "Bắp Cải Trái Tim 500gr",
+      "qty": 38,
+      "unit_price": 8000.0,
+      "tax": 5.0
+    },
+    {
+      "product_name": "Cà Chua 500gr",
+      "qty": 68,
+      "unit_price": 18000.0,
+      "tax": 5.0
+    },
+    {
+      "product_name": "Dưa Leo 500gr",
+      "qty": 56,
+      "unit_price": 14000.0,
+      "tax": 5.0
+    }
+  ]
+}

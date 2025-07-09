@@ -1,0 +1,61 @@
+{
+  "delivery_date": "2025-05-26",
+  "store": "Urban Hill",
+  "source_file": "21223 - DONG XANH FOOD GIAO 26-05 - SUPERMARKET URBAN HILL.pdf",
+  "rows": [
+    {
+      "product_name": "F-Cai thao DL 500g",
+      "qty": 10,
+      "unit_price": 11000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Bap cai trai tim DL 500g",
+      "qty": 10,
+      "unit_price": 14000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Bi do holo DXF 500g",
+      "qty": 10,
+      "unit_price": 12000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Cai bo xoi DL goi 300g-DXF",
+      "qty": 10,
+      "unit_price": 17000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Bi dao 500g-DXF",
+      "qty": 10,
+      "unit_price": 12000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Dua leo baby DL vi 500g-DXF",
+      "qty": 10,
+      "unit_price": 14000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Bap My cap 2 trai-DXF",
+      "qty": 10,
+      "unit_price": 17000.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Su su 300g up-DXF",
+      "qty": 10,
+      "unit_price": 6500.0,
+      "tax": 0.0
+    },
+    {
+      "product_name": "F-Su hao 400g up-DXF",
+      "qty": 7,
+      "unit_price": 14000.0,
+      "tax": 0.0
+    }
+  ]
+}

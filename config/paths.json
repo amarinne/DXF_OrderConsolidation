@@ -1,0 +1,10 @@
+{
+    "paths": {
+        "input_genshai": "input/genshai/",
+        "output_genshai": "output/genshai/",
+        "input_mini": "input/mini/",
+        "output_mini": "output/mini/",
+        "input_lotte": "input/lotte/",
+        "output_lotte": "output/lotte/"
+    }
+}

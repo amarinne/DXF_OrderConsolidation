@@ -1,0 +1,13 @@
+{
+  "delivery_date": "2025-07-11",
+  "source_file": "purchaseOrderList20250710015529.xls",
+  "order_slip": "250709-01012-00332",
+  "rows": [
+    {
+      "product_name": "CA TIM DAI",
+      "qty": 10,
+      "unit_price": 25000.0,
+      "tax": 5.0
+    }
+  ]
+}

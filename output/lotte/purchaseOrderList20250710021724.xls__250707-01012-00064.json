@@ -1,0 +1,13 @@
+{
+  "delivery_date": "2025-07-09",
+  "source_file": "purchaseOrderList20250710021724.xls",
+  "order_slip": "250707-01012-00064",
+  "rows": [
+    {
+      "product_name": "XA LACH LOLO XANH THUY CANH",
+      "qty": 19,
+      "unit_price": 14000.0,
+      "tax": 5.0
+    }
+  ]
+}

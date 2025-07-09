@@ -1,0 +1,25 @@
+{
+  "delivery_date": "2025-07-11",
+  "source_file": "purchaseOrderList20250710015529.xls",
+  "order_slip": "250709-01012-00333",
+  "rows": [
+    {
+      "product_name": "BS-CAI THAO",
+      "qty": 50,
+      "unit_price": 16500.0,
+      "tax": 5.0
+    },
+    {
+      "product_name": "CA CHUA",
+      "qty": 6,
+      "unit_price": 36000.0,
+      "tax": 5.0
+    },
+    {
+      "product_name": "SU SU",
+      "qty": 10,
+      "unit_price": 23000.0,
+      "tax": 5.0
+    }
+  ]
+}
