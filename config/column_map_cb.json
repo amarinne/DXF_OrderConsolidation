@@ -1,0 +1,15 @@
+{
+  "sheet_name": "C.BAC-21204",
+  "header_row": 7,
+  "columns": {
+    "product_name": "TEN HANG",
+    "unit_price": "DON GIA",
+    "quantity_candidates": ["LƯỢNG NCC", "TONG LUONG"]
+  },
+  "defaults": {
+    "tax": 0
+  },
+  "delivery_date": {
+    "source": "filename"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "delivery_date": "2025-07-09",
+  "source_file": "ĐỒNG XANH 09.07.xlsx",
+  "store": "PVT",
+  "rows": [
+    {
+      "product_name": "RL-RAU MỒNG TƠI GÓI 450GR",
+      "qty": 127.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "RL-RAU MUỐNG BABY GÓI 300GR HN",
+      "qty": 8.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "RL-RAU DỀN MINI 300GR ( ĐX)",
+      "qty": 27.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "RL-RAU MỒNG TƠI MINI 300GR ( ĐX)",
+      "qty": 0.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "RL-CẢI BÓ XÔI ĐL 300G",
+      "qty": 62.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "RC-BẮP NGỌT",
+      "qty": 68.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "RL-BẮP CẢI THẢO VIETGAP 0.7-1.2K",
+      "qty": 60.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "RC-DƯA LEO BABY VIETGAP",
+      "qty": 13.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "RC-ĐẬU COVE TRẮNG VIETGAP",
+      "qty": 22.5,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "RL-RAU MUỐNG BÀO",
+      "qty": 10.6,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "RL-XÀ LÁCH LOLO XANH VIETGAP",
+      "qty": 18.5,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "RL-BÔNG CẢI XANH VIETGAP",
+      "qty": 0.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "RL-RAU DỀN GÓI 450GR",
+      "qty": 17.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "RL-BẮP CẢI TRÁI TIM VIETGAP",
+      "qty": 0.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "RC-SU SU VIETGAP 3-5C",
+      "qty": 20.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "RC-CÀ TÍM VIETGAP",
+      "qty": 0.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "RC-ĐẬU COVE GIỐNG NHẬT VIETGAP",
+      "qty": 17.2,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "RC-BÍ ĐAO XANH MÀNG CO VIETGAP",
+      "qty": 0.0,
+      "unit_price": null,
+      "tax": 0
+    }
+  ]
+}

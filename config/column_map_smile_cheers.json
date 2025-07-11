@@ -1,0 +1,12 @@
+{
+    "sheet_name": "C.BAC-21204",
+    "header_row": 5,
+    "columns": {
+      "product_name": "TÊN HÀNG",
+      "qty": "TỔNG",
+      "unit_price": "ĐG"
+    },
+    "delivery_date_cell": "G4",
+    "tax": 0
+  }
+  

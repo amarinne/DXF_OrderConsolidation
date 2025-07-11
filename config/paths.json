@@ -1,10 +1,18 @@
 {
-    "paths": {
-        "input_genshai": "input/genshai/",
-        "output_genshai": "output/genshai/",
-        "input_mini": "input/mini/",
-        "output_mini": "output/mini/",
-        "input_lotte": "input/lotte/",
-        "output_lotte": "output/lotte/"
-    }
+  "paths": {
+    "input_genshai": "input/genshai/",
+    "output_genshai": "output/genshai/",
+    "input_mini": "input/mini/",
+    "output_mini": "output/mini/",
+    "input_lotte": "input/lotte/",
+    "output_lotte": "output/lotte/",
+    "input_cb": "input/cb/",
+    "output_cb": "output/cb/",
+    "input_satra": "input/satra/",
+    "output_satra": "output/satra/",
+    "input_smile_cheers": "input/smile_cheers/",
+    "output_smile_cheers": "output/smile_cheers/",
+    "input_coop": "input/coop/",
+    "output_coop": "output/coop/"
+  }
 }

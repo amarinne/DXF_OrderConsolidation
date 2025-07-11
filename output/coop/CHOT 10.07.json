@@ -1,0 +1,31 @@
+{
+  "delivery_date": "2025-07-10",
+  "source_file": "CHOT 10.07.jpg",
+  "type": "confirmed",
+  "rows": [
+    {
+      "product_name": "aw den baby, Coop-Select 250g: fo: 5k EA |",
+      "qty": 40.0,
+      "unit_price": 210000.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Rea inioig Wat Cogy Sétect280g 5} 5g EA | £",
+      "qty": 0.0,
+      "unit_price": 10000.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Ras peniaby, Cogp Selsreasng? St 5h CEA /",
+      "qty": 20.0,
+      "unit_price": 20000.0,
+      "tax": 0
+    },
+    {
+      "product_name": "BAURORE RONAN COOP Seleea8Ngs 54 BA [$",
+      "qty": 54.0,
+      "unit_price": 10000.0,
+      "tax": 0
+    }
+  ]
+}

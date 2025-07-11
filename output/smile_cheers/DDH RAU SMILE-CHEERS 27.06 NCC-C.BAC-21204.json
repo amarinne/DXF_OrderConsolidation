@@ -1,0 +1,42 @@
+{
+  "delivery_date": "2025-06-27",
+  "source_file": "DDH RAU SMILE-CHEERS 27.06 NCC-C.BAC-21204.xlsx",
+  "rows": [
+    {
+      "product_name": "Cai ngong 300g",
+      "qty": 3.0,
+      "unit_price": 14500.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Dua leo 300g",
+      "qty": 9.0,
+      "unit_price": 7000.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Dua leo baby 500g",
+      "qty": 5.0,
+      "unit_price": 10500.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Kho qua 500g",
+      "qty": 5.0,
+      "unit_price": 17000.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Khoai tay Da Lat 500g-CB",
+      "qty": 7.0,
+      "unit_price": 12000.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Sa lach lo lo xanh 300g-CB",
+      "qty": 10.0,
+      "unit_price": 10000.0,
+      "tax": 0
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "delivery_date": "2025-07-11",
+  "source_file": "DU KIEN DH RAU 11.07 (GIAO KHO 10.07)-C.BAC-21204.xlsx",
+  "rows": [
+    {
+      "product_name": "Bap cai thao kg",
+      "qty": 50.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "Bau trai",
+      "qty": 50.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "Bi dao trai",
+      "qty": 40.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "Bong cai xanh kg-CB",
+      "qty": 64.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "Ca chua Beef 500g",
+      "qty": 150.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "Cai be xanh 300g",
+      "qty": 50.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "Cai bo xoi 300g",
+      "qty": 100.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "Cai ngot 300g",
+      "qty": 50.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "Cai thia 300g",
+      "qty": 100.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "Dau bap 250g-CB",
+      "qty": 40.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "Dua leo 300g",
+      "qty": 200.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "Dua leo baby 500g",
+      "qty": 150.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "Rau den baby 250g-CB",
+      "qty": 50.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "Rau mong toi baby 300g",
+      "qty": 100.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "Rau muong baby 300g",
+      "qty": 100.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "Sa lach lo lo xanh 300g",
+      "qty": 60.0,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "Salad giong My kg",
+      "qty": 24.0,
+      "unit_price": null,
+      "tax": 0
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "delivery_date": "2025-06-14",
+  "source_file": "BPCT RAU 14.06.2025 - CHOT DH-C.BAC-21204.xlsx",
+  "rows": [
+    {
+      "product_name": "Bap cai thao kg",
+      "qty": 50.0,
+      "unit_price": 17000.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Bi dao trai",
+      "qty": 40.0,
+      "unit_price": 11000.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Bong cai xanh kg-CB",
+      "qty": 64.0,
+      "unit_price": 38000.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Ca chua Beef 500g",
+      "qty": 150.0,
+      "unit_price": 9500.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Cai be xanh 300g",
+      "qty": 50.0,
+      "unit_price": 13000.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Cai bo xoi 300g",
+      "qty": 120.0,
+      "unit_price": 13500.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Cai ngot 300g",
+      "qty": 50.0,
+      "unit_price": 9000.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Cai thia 300g",
+      "qty": 100.0,
+      "unit_price": 12000.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Dua leo 300g",
+      "qty": 200.0,
+      "unit_price": 7000.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Dua leo baby 500g",
+      "qty": 150.0,
+      "unit_price": 10500.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Dua leo baby 500g",
+      "qty": NaN,
+      "unit_price": null,
+      "tax": 0
+    },
+    {
+      "product_name": "Rau den baby 250g-CB",
+      "qty": 50.0,
+      "unit_price": 8000.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Rau mong toi baby 300g",
+      "qty": 100.0,
+      "unit_price": 10000.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Rau muong baby 300g",
+      "qty": 50.0,
+      "unit_price": 9500.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Sa lach lo lo xanh 300g",
+      "qty": 60.0,
+      "unit_price": 10000.0,
+      "tax": 0
+    },
+    {
+      "product_name": "Salad giong My kg",
+      "qty": 24.0,
+      "unit_price": 36000.0,
+      "tax": 0
+    }
+  ]
+}

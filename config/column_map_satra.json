@@ -1,0 +1,16 @@
+{
+  "delivery_date_cell": "F7",
+  "product_name_column": "E",
+  "product_name_header_row": 11,
+  "warehouse_columns": {
+    "PVT": {
+      "qty_col": "K",
+      "header_row": 11
+    },
+    "TN": {
+      "qty_col": "M",
+      "header_row": 11
+    }
+  },
+  "tax": 0
+}
